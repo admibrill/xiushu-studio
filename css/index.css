@@ -21304,7 +21304,7 @@ html.hide-aside .layout > div:first-child {
   }
 }
 
-/* 元素透明度改变 */
+/* 元素透明度改变                            mongodb+srv://elong223:caonimacaonimacao@cluster0.0sc3k.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0*/
 @keyframes slide-in-op {
   from {
     opacity: 0;
@@ -21314,6 +21314,9 @@ html.hide-aside .layout > div:first-child {
   }
 }
 
+.avatar-img{
+  animation: none ;
+}
 #aside-content .card-widget#card-wechat {
   background: #57bd6a;
   display: flex;
